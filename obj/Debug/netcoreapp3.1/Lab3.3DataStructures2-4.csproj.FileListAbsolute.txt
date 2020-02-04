@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.exe
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.deps.json
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.runtimeconfig.json
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.dll
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\bin\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.pdb
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\obj\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\obj\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\obj\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\obj\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.dll
+C:\Users\mellis2\source\repos\Lab3.3DataStructures2-4\obj\Debug\netcoreapp3.1\Lab3.3DataStructures2-4.pdb
